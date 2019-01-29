@@ -9,7 +9,7 @@ def main():
 
     # set notification number at here
     # format: 60123456789 (no - and +)
-    user = ['60169986138','60163221149','60184703505']
+    user = ['6016xxxXXXX','6016xxxXXXX','6018xxxXXXX']
 
     # message content, space will be replace by %20
     msgbody = "XXXX XXX XXX"
